@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">shape_recognizer</string>
+    <string-array name="spinner_options">
+        <item>Hu</item>
+        <item>Zernike</item>
+    </string-array>
+</resources>
